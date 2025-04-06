@@ -24,4 +24,4 @@ Check out the live site here:
 
 1. Clone this repo  
 ```bash
-git clone https://github.com/yourusername/portfolio-site.git
+git clone https://github.com/Sunny-06/portfolio-site.git
