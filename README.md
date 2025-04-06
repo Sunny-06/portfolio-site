@@ -1,4 +1,4 @@
-# portfolio-site
+
 # Personal Portfolio Website
 
 This is my personal portfolio website built using *HTML* and *CSS* to showcase my projects, skills, and contact information. It includes highlights of my work as a Data Science student and aspiring Data Analyst.
@@ -6,8 +6,7 @@ This is my personal portfolio website built using *HTML* and *CSS* to showcase m
 ## Live Demo
 
 Check out the live site here:  
-*[https://yourusername.github.io/portfolio-site](https://Sunny-06.github.io/portfolio-site)*  
-(Replace with your actual GitHub Pages link)
+*[https://Sunny-06.github.io/portfolio-site](https://Sunny-06.github.io/portfolio-site)* 
 
 ## Features
 
